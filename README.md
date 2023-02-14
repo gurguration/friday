@@ -1,2 +1,2 @@
 # friday
-assignment for is-it-friday app
+Assignment for is-it-friday app
